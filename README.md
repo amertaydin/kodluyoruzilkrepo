@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# Kodluyoruz First Repository
 This repository is the first repository created during [Kodluyoruz](https://www.kodluyoruz.org) Front-End Training. It includes one README file, and one index.html file.
 
 ## Installation
