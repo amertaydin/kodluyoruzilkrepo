@@ -28,8 +28,5 @@ Pull requests are accepted. For major changes, please open a subject about what 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<<<<<<< HEAD
-![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
-=======
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 >>>>>>> c561587bdccd0b3373542cc597b67503d657a198
